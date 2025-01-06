@@ -15,6 +15,7 @@
 /* ESCRIPT.LIB */
 #include <escript.h>
 
+/* ESCRIPT.MAIN */
 DO {
 printf("Starting loop...\n");
 int i = 0;
