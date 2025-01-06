@@ -61,6 +61,7 @@ def script(src: str):
 /* ESCRIPT.LIB */
 #include <escript.h>
 
+/* ESCRIPT.MAIN */
 DO {OPEN_BRACKET}
 {src}
 return 0;
